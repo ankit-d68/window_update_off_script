@@ -27,7 +27,7 @@ This command will list all services including services that are not running
 
 If you want to get more information about sc command.
 
-sc: sc?/ This will display the help menu of sc command.
+sc: sc/ ? This will display the help menu of sc command.
 
 For more info: https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc754599(v=ws.11)#sc-commands
 
